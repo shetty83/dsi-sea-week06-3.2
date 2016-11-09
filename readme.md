@@ -41,7 +41,6 @@ The [Starter Code](./code/starter-code/starter-code-3_2.ipynb) will guide you th
 
 [Starter Code](./code/starter-code/starter-code-3_2.ipynb)
 
->[Solution Code](./code/solution-code/solution-code-3_2.ipynb)
 
 ## Additional Resources
 
