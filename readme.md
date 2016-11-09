@@ -31,6 +31,7 @@ The [Starter Code](./code/starter-code/starter-code-3_2.ipynb) will guide you th
 - Train and evaluate performance of a AdaBoost Regressor
 - Train and evaluate performance of a Gradient Boosting Trees Regressor
 - Practice using Tableau to inspect the data and also to plot the results
+- Upload your new Tableau table to your site
 
 **Bonus:**
 
